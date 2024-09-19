@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+
+video,
+audio,
+iframe {
+    border: solid 2px lightgreen;
+}
+
+#circ {
+    padding-left: 10px;
+}
